@@ -31,6 +31,8 @@
 3. Bazı mobil tarayıcılar (iOS Safari vb.) Web Audio API kısıtlamalarına sahip olabileceği için masaüstü tarayıcılarda (Chrome, Edge, Firefox) kullanılması önerilir.
 
 📸 Ekran Görüntüsü
-<img src="ekran-goruntusu1.png" alt="Ekran Görüntüsü" width="500">
-<img src="ekran-goruntusu2.png" alt="Ekran Görüntüsü" width="500">
-<img src="ekran-goruntusu3.png" alt="Ekran Görüntüsü" width="500">
+
+
+<img src="images/ekran-goruntusu1.png" alt="Ekran Görüntüsü" width="400">
+<img src="images/ekran-goruntusu2.png" alt="Ekran Görüntüsü" width="400">
+<img src="images/ekran-goruntusu3.png" alt="Ekran Görüntüsü" width="400">
